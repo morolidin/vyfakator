@@ -51,6 +51,7 @@ input:hover{
 
 .text {
 	font-size: 30px;
+        margin-bottom: 15px;
 }
 .text .inner {
   border: 2px solid;
@@ -59,14 +60,12 @@ input:hover{
   position: relative;
 }
 
-.text .inner::after {
+.text::after {
   border-color: #000 transparent transparent;
   border-style: solid;
   border-width: 42px 8px 0;
   content: "";
-  height: 0;
   left: 50%;
   position: absolute;
-  top: 81px;
-  width: 0;
+  width: 0;  
 }
