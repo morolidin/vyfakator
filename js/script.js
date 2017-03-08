@@ -47,6 +47,7 @@ var fuck = [
 	"Proč zrovna já musím mít takový fandy?",
 	"Nechci bejt neuctivej, ale vodser.",
 	"Kdo se moc ptá, je debil."
+	"Ty seš takovej zlozmrd."
 
 ];
 // co tu děláš buzerante zvědavej! Mazej z toho kódu
